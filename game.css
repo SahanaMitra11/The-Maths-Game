@@ -1,0 +1,50 @@
+body
+{
+	background-color: rgb(118, 250, 228);
+	background-size: cover;
+}
+h1
+{
+	color: blue;
+}
+
+	.login_div1 , .login_div2
+	{
+
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: center;
+text-align: center;
+
+}
+#player1_name_input
+{
+	border-radius: 75px;
+}
+
+#player2_name_input{
+	border-radius: 75px;
+}

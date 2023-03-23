@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(92, 252, 252);
+    }
+    
+    h1{
+        text-align: center;
+        font-weight: 300px;
+        font-family: 'Shrikhand', cursive;
+        color: blue;
+    }
+    #output
+    {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: center;
+    }
